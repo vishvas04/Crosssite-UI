@@ -1,0 +1,44 @@
+table{
+    width:80%;
+    margin:auto;
+    border-collapse: collapse;
+    border: 3px solid black;
+    background-image: url(https://images.news18.com/ibnlive/uploads/2021/11/indian-constitution-16378425653x2.jpg);   
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+tr{
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-size: larger;
+}
+td {
+    height: 50px;
+    vertical-align: bottom;
+    border: 2px solid black;
+    padding-bottom: 30px;
+}
+.img{
+   height: 100px;
+}
+.top{
+    font-size: x-large;
+}
+.Head{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 600px;
+}
+td{
+    text-decoration: none;
+}
+body{
+    background-color: blanchedalmond;
+}
+.line{
+    margin-bottom: 20px;
+}
+.party{
+    padding: 30px 30px 30px 30px;
+}
